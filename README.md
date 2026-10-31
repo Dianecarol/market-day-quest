@@ -1,4 +1,6 @@
 
+
+
 🛍️ SWID Practical 1: Market Day Quest
 
 Welcome to my Market Day with Python! This is my first SWID practical where I practiced variables, f-strings, arithmetic and concatenation.
